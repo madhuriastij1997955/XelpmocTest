@@ -1,0 +1,14 @@
+selenium
+pytest
+allure-pytest
+pytest-html
+pytest-soft-assertions
+pytest-dependency
+pytest-order
+chromedriver-autoinstaller
+openpyxl
+webdriver-manager
+Faker
+pytest-xdist
+robotframework
+robotframework-seleniumlibrary
